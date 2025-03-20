@@ -178,5 +178,273 @@
     {
         "input": "Wer erfand das Internet?",
         "output": "Das Internet wurde nicht von einer einzelnen Person erfunden, aber wichtige Beiträge kamen von Tim Berners-Lee, der das World Wide Web entwickelte, und anderen wie Vint Cerf und Bob Kahn, die das TCP/IP-Protokoll erschufen."
+    },
+    {
+      "question": "Was ist die Relativitätstheorie?",
+      "answer": "Die Relativitätstheorie, formuliert von Albert Einstein, beschreibt die Gesetzmäßigkeiten der Raumzeit und erklärt, wie Masse und Energie die Struktur der Raumzeit beeinflussen."
+    },
+    {
+      "question": "Was ist ein Quantencomputer?",
+      "answer": "Ein Quantencomputer nutzt die Prinzipien der Quantenmechanik, um Berechnungen zu machen, die klassische Computer nicht effizient durchführen können, indem er Quantenbits (Qubits) verwendet."
+    },
+    {
+      "question": "Wie viele Kontinente gibt es auf der Erde?",
+      "answer": "Es gibt sieben Kontinente: Afrika, Antarktika, Asien, Europa, Nordamerika, Australien und Südamerika."
+    },
+    {
+      "question": "Wer war Albert Einstein?",
+      "answer": "Albert Einstein war ein theoretischer Physiker, der die Relativitätstheorie formulierte und für seine Arbeiten zur Quantenmechanik und zur Energie-Masse-Äquivalenz (E=mc²) berühmt wurde."
+    },
+    {
+      "question": "Was sind erneuerbare Energien?",
+      "answer": "Erneuerbare Energien sind Energiequellen, die sich natürlich erneuern, wie Solar-, Wind-, Wasserkraft-, Geothermie- und Biomasse-Energie."
+    },
+    {
+      "question": "Was ist der Klimawandel?",
+      "answer": "Der Klimawandel bezieht sich auf langfristige Veränderungen der globalen Temperaturen und Wettermuster, die oft durch menschliche Aktivitäten wie die Verbrennung fossiler Brennstoffe verursacht werden."
+    },
+    {
+      "question": "Wie funktioniert das Internet?",
+      "answer": "Das Internet ist ein globales Netzwerk von Computern, die über das TCP/IP-Protokoll miteinander verbunden sind und es den Austausch von Daten über verschiedene Server und Netzwerke ermöglichen."
+    },
+    {
+      "question": "Was ist ein Algorithmus?",
+      "answer": "Ein Algorithmus ist eine präzise, schrittweise Anweisung zur Lösung eines Problems oder zur Durchführung einer Aufgabe, oft in der Informatik verwendet."
+    },
+    {
+      "question": "Was ist Demokratie?",
+      "answer": "Demokratie ist ein politisches System, in dem die Macht beim Volk liegt, das seine Vertreter wählt, die Entscheidungen treffen."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen mitteleuropäischem und mediterranem Klima?",
+      "answer": "Das mitteleuropäische Klima ist gekennzeichnet durch kalte Winter und milde Sommer, während das mediterrane Klima milde Winter und heiße, trockene Sommer hat."
+    },
+    {
+      "question": "Was ist das Higgs-Boson?",
+      "answer": "Das Higgs-Boson ist ein Elementarteilchen, das im Standardmodell der Teilchenphysik eine Schlüsselrolle spielt und mit dem Higgs-Feld verbunden ist, das den anderen Teilchen ihre Masse verleiht."
+    },
+    {
+      "question": "Was ist Blockchain?",
+      "answer": "Blockchain ist eine dezentrale digitale Datenbank, die Transaktionen oder Informationen in Blöcken speichert und durch Kryptografie gesichert ist, um Manipulationen zu verhindern."
+    },
+    {
+      "question": "Was ist der Ursprung des Lebens?",
+      "answer": "Der Ursprung des Lebens ist ein weitgehend ungelöstes Problem in der Wissenschaft, wobei Theorien wie die chemische Evolution und die Panspermie Hypothese diskutiert werden."
+    },
+    {
+      "question": "Was ist eine Demokratie?",
+      "answer": "Eine Demokratie ist ein Regierungssystem, in dem die Macht vom Volk ausgeht, das in freien und fairen Wahlen seine Vertreter wählt."
+    },
+    {
+      "question": "Wer erfand das Telefon?",
+      "answer": "Das Telefon wurde von Alexander Graham Bell erfunden, der 1876 das erste funktionierende Gerät zur Übertragung von Sprache über Kabel entwickelte."
+    },
+    {
+      "question": "Was versteht man unter 'Big Data'?",
+      "answer": "Big Data bezeichnet extrem große Datenmengen, die mit traditionellen Methoden der Datenverarbeitung schwer zu handhaben sind und spezielle Technologien und Algorithmen erfordern."
+    },
+    {
+      "question": "Was sind schwarze Löcher?",
+      "answer": "Schwarze Löcher sind Regionen im Raum, in denen die Schwerkraft so stark ist, dass nichts, nicht einmal Licht, entweichen kann."
+    },
+    {
+      "question": "Was ist eine Bitcoin?",
+      "answer": "Bitcoin ist eine digitale Währung, die auf der Blockchain-Technologie basiert und dezentralisiert ohne zentrale Bank oder Vermittler funktioniert."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen 'Hardware' und 'Software'?",
+      "answer": "Hardware bezeichnet die physischen Teile eines Computers, während Software die Programme und Betriebssysteme umfasst, die auf der Hardware laufen."
+    },
+    {
+      "question": "Was ist die globale Erwärmung?",
+      "answer": "Die globale Erwärmung beschreibt die langfristige Erwärmung der Erdoberfläche, die hauptsächlich durch menschliche Aktivitäten wie die Verbrennung fossiler Brennstoffe und Abholzung verursacht wird."
+    },
+    {
+      "question": "Wie funktioniert das Gehirn?",
+      "answer": "Das Gehirn funktioniert, indem es elektrische und chemische Signale zwischen Nervenzellen (Neuronen) überträgt, um Gedanken, Bewegungen, Sinneswahrnehmungen und emotionale Reaktionen zu steuern."
+    },
+    {
+      "question": "Was ist eine App?",
+      "answer": "Eine App ist eine Softwareanwendung, die für mobile Geräte wie Smartphones und Tablets entwickelt wurde und spezielle Funktionen bietet, die auf einem mobilen Gerät ausgeführt werden können."
+    },
+    {
+      "question": "Was ist eine künstliche Intelligenz?",
+      "answer": "Künstliche Intelligenz (KI) ist ein Bereich der Informatik, der sich mit dem Bau von Systemen befasst, die menschenähnliche Fähigkeiten wie Lernen, Problemlösen und Entscheidungsfindung aufweisen."
+    },
+    {
+      "question": "Was ist die Schiefe der Erdachse?",
+      "answer": "Die Schiefe der Erdachse ist der Winkel, den die Achse der Erde im Verhältnis zur Ebene ihrer Umlaufbahn um die Sonne bildet. Dies führt zu den Jahreszeiten."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen einem Laptop und einem Desktop?",
+      "answer": "Ein Laptop ist ein tragbarer Computer mit eingebauten Komponenten wie Tastatur, Bildschirm und Batterie, während ein Desktop-PC in der Regel größere Komponenten benötigt und nicht tragbar ist."
+    },
+    {
+      "question": "Was ist ein Betriebssystem?",
+      "answer": "Ein Betriebssystem ist eine Software, die die Hardware eines Computers verwaltet und die Ausführung von Anwendungssoftware ermöglicht. Beispiele sind Windows, macOS und Linux."
+    },
+    {
+      "question": "Was ist das Standardmodell der Teilchenphysik?",
+      "answer": "Das Standardmodell der Teilchenphysik beschreibt die fundamentalen Teilchen des Universums und die Wechselwirkungen zwischen ihnen, abgesehen von der Gravitation."
+    },
+    {
+      "question": "Was ist ein Hyperloop?",
+      "answer": "Der Hyperloop ist ein vorgeschlagenes Hochgeschwindigkeits-Transportmittel, das Passagiere in Kapseln durch Vakuumröhren bewegt, um den Luftwiderstand zu minimieren."
+    },
+    {
+      "question": "Was versteht man unter künstlicher Intelligenz?",
+      "answer": "Künstliche Intelligenz ist ein Bereich der Informatik, der Maschinen und Computersystemen die Fähigkeit verleiht, Aufgaben zu übernehmen, die normalerweise menschliche Intelligenz erfordern, wie Lernen und Problemlösen."
+    },
+    {
+      "question": "Was ist der Zweck der menschlichen DNA?",
+      "answer": "Die menschliche DNA enthält die genetischen Anweisungen für den Aufbau und die Funktion von Zellen und ist für die Vererbung von Merkmalen verantwortlich."
+    },
+    {
+      "question": "Wie wird Strom erzeugt?",
+      "answer": "Strom wird durch verschiedene Methoden erzeugt, wie durch Verbrennung fossiler Brennstoffe, Windkraft, Solarenergie, Wasserkraft und Kernkraft."
+    },
+    {
+      "question": "Was ist ein neuronales Netzwerk?",
+      "answer": "Ein neuronales Netzwerk ist ein Modell der künstlichen Intelligenz, das die Struktur des menschlichen Gehirns nachahmt, um Muster zu erkennen und Entscheidungen zu treffen."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen einem Virus und einem Bakterium?",
+      "answer": "Viren sind mikroskopisch kleine, nicht lebende Organismen, die sich nur in lebenden Zellen vermehren können, während Bakterien lebende Einzeller sind, die sich selbstständig vermehren können."
+    },
+    {
+      "question": "Was ist der Urknall?",
+      "answer": "Der Urknall ist die Theorie, dass das Universum vor etwa 13,8 Milliarden Jahren aus einem extrem heißen und dichten Zustand entstanden ist und sich seitdem ausdehnt."
+    },
+    {
+      "question": "Was ist das Higgs-Feld?",
+      "answer": "Das Higgs-Feld ist ein unsichtbares Feld im Universum, das den Teilchen ihre Masse verleiht, und das Higgs-Boson ist das Teilchen, das dieses Feld beschreibt."
+    },
+    {
+      "question": "Was sind die Gesetze der Thermodynamik?",
+      "answer": "Die Gesetze der Thermodynamik beschreiben die Beziehungen zwischen Wärme, Arbeit und Energie, einschließlich des Gesetzes der Energieerhaltung und der Entropie."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen einem Algorithmus und einem Programm?",
+      "answer": "Ein Algorithmus ist eine Schritt-für-Schritt-Anleitung zur Lösung eines Problems, während ein Programm eine vollständige Implementierung eines Algorithmus in einer Programmiersprache ist."
+    },
+    {
+      "question": "Was ist ein Smartphone?",
+      "answer": "Ein Smartphone ist ein tragbares elektronisches Gerät, das nicht nur als Telefon dient, sondern auch viele weitere Funktionen wie das Surfen im Internet und die Ausführung von Apps bietet."
+    },
+    {
+      "question": "Was ist ein Virus im Computerkontext?",
+      "answer": "Ein Computervirus ist eine schadhafter Code, der sich selbst repliziert und in Dateien oder Programmen eines Computers eingeschleust wird, um Schäden zu verursachen."
+    },
+    {
+      "question": "Was ist eine App?",
+      "answer": "Eine App ist eine Softwareanwendung, die speziell für mobile Geräte wie Smartphones und Tablets entwickelt wurde und zusätzliche Funktionen bietet."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen IPv4 und IPv6?",
+      "answer": "IPv4 ist die ältere Version des Internet-Protokolls mit 32-Bit-Adressen, während IPv6 eine neuere Version mit 128-Bit-Adressen ist und mehr IP-Adressen bietet."
+    },
+    {
+      "question": "Was ist die Bedeutung der Quantenmechanik?",
+      "answer": "Die Quantenmechanik beschreibt das Verhalten von Teilchen auf mikroskopischer Ebene und stellt fest, dass Teilchen sowohl Wellen- als auch Teilcheneigenschaften haben."
+    },
+    {
+      "question": "Was ist der Mars?",
+      "answer": "Der Mars ist der vierte Planet im Sonnensystem und wird oft als der 'rote Planet' bezeichnet, weil seine Oberfläche Eisenoxid enthält, das ihn rötlich erscheinen lässt."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen einer Demokratie und einer Diktatur?",
+      "answer": "In einer Demokratie haben die Bürger das Recht, ihre Führer zu wählen, während in einer Diktatur die Macht in den Händen einer einzelnen Person oder einer kleinen Gruppe liegt."
+    },
+    {
+      "question": "Was sind fossile Brennstoffe?",
+      "answer": "Fossile Brennstoffe wie Kohle, Erdöl und Erdgas sind Energieträger, die aus den Überresten von Pflanzen und Tieren entstanden sind und durch Verbrennung Energie liefern."
+    },
+    {
+      "question": "Was ist der Zusammenhang zwischen Energie und Arbeit?",
+      "answer": "Arbeit ist die Übertragung von Energie, wobei Energie in Form von Arbeit verwendet wird, um eine Kraft über eine Strecke zu bewegen."
+    },
+    {
+      "question": "Was ist die Funktion des Herzens?",
+      "answer": "Das Herz pumpt Blut durch den Körper und versorgt so Organe und Gewebe mit Sauerstoff und Nährstoffen, während es Abfallprodukte wie CO2 entfernt."
+    },
+    {
+      "question": "Was ist ein Atom?",
+      "answer": "Ein Atom ist die kleinste Einheit eines chemischen Elements, bestehend aus einem Kern aus Protonen und Neutronen, um den Elektronen kreisen."
+    },
+    {
+      "question": "Was ist ein Turing-Test?",
+      "answer": "Der Turing-Test, vorgeschlagen von Alan Turing, ist ein Test zur Bestimmung, ob eine Maschine in der Lage ist, menschenähnliche Intelligenz zu zeigen."
+    },
+    {
+      "question": "Was sind die Hauptbestandteile eines Computers?",
+      "answer": "Die Hauptbestandteile eines Computers sind der Prozessor (CPU), der Arbeitsspeicher (RAM), der Speicher (Festplatte/SSD), das Motherboard, und das Eingabe-/Ausgabegerät (z. B. Bildschirm und Tastatur)."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen einer natürlichen und einer synthetischen Faser?",
+      "answer": "Natürliche Fasern stammen aus Pflanzen oder Tieren, während synthetische Fasern aus chemischen Verbindungen hergestellt werden, meist aus Erdölprodukten."
+    },
+    {
+      "question": "Was ist der Ursprung des Universums?",
+      "answer": "Der Ursprung des Universums wird im Urknall-Modell erklärt, das vorschlägt, dass das Universum vor etwa 13,8 Milliarden Jahren aus einem extrem heißen und dichten Punkt entstand."
+    },
+    {
+      "question": "Was ist ein Betriebssystem?",
+      "answer": "Ein Betriebssystem ist eine Software, die als Schnittstelle zwischen der Hardware eines Computers und den Programmen dient, die auf dem Computer ausgeführt werden."
+    },
+    {
+      "question": "Was ist ein Ozean?",
+      "answer": "Ein Ozean ist eine riesige Wassermasse, die einen Großteil der Erdoberfläche bedeckt und die Weltmeere umfasst. Es gibt fünf Hauptozeane: den Pazifik, den Atlantik, den Indischen Ozean, den Südpolarmeer und den Arktischen Ozean."
+    },
+    {
+      "question": "Was ist die Relativitätstheorie?",
+      "answer": "Die Relativitätstheorie von Albert Einstein beschreibt, wie Raum und Zeit relativ zu den Bewegungen von Objekten sind. Sie umfasst sowohl die spezielle Relativitätstheorie als auch die allgemeine Relativitätstheorie."
+    },
+    {
+      "question": "Was ist die Funktion von DNA?",
+      "answer": "Die DNA speichert die genetischen Informationen eines Organismus und ist entscheidend für die Reproduktion, das Wachstum und die Entwicklung von Lebewesen."
+    },
+    {
+      "question": "Was sind Antikörper?",
+      "answer": "Antikörper sind Proteine, die vom Immunsystem produziert werden, um Krankheitserreger wie Viren und Bakterien zu erkennen und zu neutralisieren."
+    },
+    {
+      "question": "Was ist eine künstliche Intelligenz?",
+      "answer": "Künstliche Intelligenz (KI) bezeichnet Systeme, die menschenähnliche kognitive Fähigkeiten wie Lernen, Problemlösen und Entscheidungsfindung entwickeln können."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen iOS und Android?",
+      "answer": "iOS ist das mobile Betriebssystem von Apple, während Android von Google entwickelt wird. Beide Systeme sind weit verbreitet, wobei iOS auf iPhones und iPads läuft und Android auf einer Vielzahl von Smartphones."
+    },
+    {
+      "question": "Was sind Gene?",
+      "answer": "Gene sind Abschnitte der DNA, die die genetische Information für die Entwicklung und Funktionsweise von Organismen enthalten."
+    },
+    {
+      "question": "Was ist eine Transistor?",
+      "answer": "Ein Transistor ist ein elektronisches Bauteil, das als Schalter oder Verstärker in Schaltungen verwendet wird. Es ist ein grundlegender Bestandteil moderner Elektronik."
+    },
+    {
+      "question": "Was ist der Urknall?",
+      "answer": "Der Urknall ist die Theorie, die besagt, dass das Universum vor etwa 13,8 Milliarden Jahren aus einem heißen, dichten Zustand hervorging und sich seither ausdehnt."
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Mars und Venus?",
+      "answer": "Mars ist der vierte Planet im Sonnensystem und bekannt als der 'rote Planet'. Venus ist der zweite Planet und bekannt für ihre dichte, heiße Atmosphäre."
+    },
+    {
+      "question": "Was ist ein Computer-Netzwerk?",
+      "answer": "Ein Computernetzwerk ist ein System von miteinander verbundenen Computern, die miteinander kommunizieren und Daten austauschen können."
+    },
+    {
+      "question": "Was ist das Sonnenlicht?",
+      "answer": "Sonnenlicht ist das sichtbare Licht und andere Strahlung, die von der Sonne ausgestrahlt wird und für das Leben auf der Erde von entscheidender Bedeutung ist."
+    },
+    {
+      "question": "Was ist ein Virus?",
+      "answer": "Ein Virus ist ein Mikroorganismus, der sich nur in den Zellen eines Wirtsorganismus vermehren kann und verschiedene Krankheiten verursachen kann."
+    },
+    {
+      "question": "Was ist die Rolle des Sauerstoffs?",
+      "answer": "Sauerstoff ist ein Gas, das für die Atmung von Tieren und Menschen notwendig ist und auch für die Verbrennung und Energieproduktion in Zellen wichtig ist."
     }
 ]
